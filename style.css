@@ -11,3 +11,14 @@ header {
     font-size: 32PX;
     color: #78580D;
 }
+
+section{
+    background: #FFE7AF;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
