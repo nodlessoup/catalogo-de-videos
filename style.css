@@ -8,4 +8,6 @@ body{
 header {
     border-bottom: solid 2px #78580D;
     padding: 20PX;
+    font-size: 32PX;
+    color: #78580D;
 }
